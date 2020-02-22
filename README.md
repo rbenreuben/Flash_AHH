@@ -8,7 +8,7 @@ Created a flashcard application that displays a question and allows users to cli
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/qqeU8St.gif" width=200><br>
+<img src="https://i.imgur.com/qqeU8St.gif" width=400><br>
 
 ## Required
 - [X] Create New Project in Android Studio
