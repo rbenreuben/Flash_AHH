@@ -6,7 +6,6 @@
 Lab 2 for Flash card app
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src=https://imgur.com/a/EG18prL width=300><br>
 
