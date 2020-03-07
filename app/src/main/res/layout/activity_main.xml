@@ -13,7 +13,7 @@
         android:layout_height="200dp"
         android:layout_centerInParent="true"
         android:gravity="center"
-        android:text="What Color Is the Sky?"
+        android:text="@string/what_color_is_the_sky"
         android:textSize="40sp" />
 
 
@@ -25,8 +25,15 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:gravity="center"
-        android:text="The Sky Is Blue"
+        android:text="@string/the_sky_is_blue"
         android:textSize="40sp"
         android:visibility="invisible" />
-
+    <ImageButton
+        android:id="@+id/addbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/add_button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        />
 </RelativeLayout>
