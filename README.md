@@ -7,7 +7,7 @@ Lab 2 for Flash card app
 
 ### App Walk-though
 
-<img src=https://imgur.com/a/EG18prL width=300><br>
+<img src=https://i.imgur.com/rfwnqy7.gif width=300><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
