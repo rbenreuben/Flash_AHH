@@ -1,6 +1,6 @@
 
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
 
 ## Lab 3
 
@@ -9,7 +9,7 @@ Lab 3 Flashcard App
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/PU1pnYr.gif" width=200><br>
 
 
 ## Required
