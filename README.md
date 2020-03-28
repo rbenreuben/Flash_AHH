@@ -7,7 +7,7 @@ Lab #4 Flashcard app
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/61ElU4H.gf" width=200><br>
+<img src="https://i.imgur.com/61ElU4H.gif" width=200><br>
 
 ## Required
 - [X] User sees a transition animation when going from the main screen to the add card screen.
